@@ -1,7 +1,8 @@
 # requirements.txt
-snowflake-connector-python==3.0.4
+
+snowflake-connector-python==3.9
 
 cffi==1.15.0
 pyarrow<10.1.0,>=10.0.1
 streamlit==1.25.0
-pandas
+pandas==2.1.1
